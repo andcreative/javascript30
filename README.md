@@ -3,7 +3,7 @@
 
 ##  Why?
 
-### JavaScript30 projects challenge to improve my javascript skills. 
+### JavaScript30 projects challenge to improve my skills. 
 
 ##  Skills Used in the Project:
 
