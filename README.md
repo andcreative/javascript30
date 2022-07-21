@@ -1,19 +1,22 @@
-#  Project: JavaScript30 Challenge
-### *JavaScript 30 projects. 30 Day Vanilla JS Coding Challenge from https://courses.wesbos.com/*
+# Project: JavaScript30 Challenge
 
-##  Why?
+### _JavaScript 30 projects. 30 Day Vanilla JS Coding Challenge from https://courses.wesbos.com/_
 
-### JavaScript30 projects challenge to improve my skills in Vanilla JS. 
+## Why?
 
-##  Skills Used in the Project:
+### JavaScript30 projects challenge to improve my skills in Vanilla JS.
+
+## Skills Used in the Project:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
-##  Done:
-- #01 - JavaScript Drum Kit
+## Done:
 
-##  To do:
+- #01 - JavaScript Drum Kit
 - #02 - CSS + JS Clock
+
+## To do:
+
 - #03 - Playing with CSS Variables and JS
 - #04 - Array Cardio Day 1
 - #05 - Flex Panels Image Gallery
@@ -43,19 +46,20 @@
 - #29 - Countdown Clock
 - #30 - Whack A Mole Game
 
-### 
+###
 
-##  Contacts:
+## Contacts:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-oliveira-de-carvalho/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andredecarvalh0)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524992147790?text=Ol%C3%A1!%20Vamos%20desenvolver%20um%20projeto%20juntos?)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andcreativee/)
 
-##  Donations and Payments:
+## Donations and Payments:
 
 [![PIX](https://img.shields.io/badge/pix-30363D?style=for-the-badge&logo=PIX&logoColor=#008000)](https://nubank.com.br/pagar/1cvrar/TigeV0z6cf)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=4U2BGNTBMZDGU&no_recurring=0&item_name=Thanks%21&currency_code=BRL)
 
 ##
+
 <p align="center">Copyright © 2022 and. Creative</p>
