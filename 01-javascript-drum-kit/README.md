@@ -1,20 +1,17 @@
-#  Project: JavaScript30 Challenge
+#  Project: #1 - JavaScript Drum Kit
 ### *JavaScript30 projects. Challenge from https://courses.wesbos.com/*
 
 ##  Why?
 
-### JavaScript30 projects challenge to improve my skills. 
+### I'm doing the JavaScript30 Challenge to improve my skills. 
+
+##  What I've learned
+  - The < kbd > element;
+  - I remembered a few things about functions.
 
 ##  Skills Used in the Project:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-
-##  Done:
-
-## Doing:
-  #01 - JavaScript Drum Kit
-
-##  To do:
 
 ### 
 
