@@ -8,7 +8,7 @@
 
 ## What I've learned
 
-- To use CSS variables.
+- Use CSS variables.
 
 ## Skills Used in the Project:
 
