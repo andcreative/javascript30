@@ -1,4 +1,4 @@
-# Project: #2 - CSS and JavaScript Clock
+# Project: #3 - CSS Variables and JavaScript
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
@@ -8,7 +8,7 @@
 
 ## What I've learned
 
-- Work with time and date attributes.
+- To use CSS variables.
 
 ## Skills Used in the Project:
 

@@ -14,10 +14,10 @@
 
 - #01 - JavaScript Drum Kit
 - #02 - CSS + JS Clock
+- #03 - Playing with CSS Variables and JS
 
 ## To do:
 
-- #03 - Playing with CSS Variables and JS
 - #04 - Array Cardio Day 1
 - #05 - Flex Panels Image Gallery
 - #06 - Ajax Type Ahead
