@@ -15,11 +15,11 @@
 - #01 - JavaScript Drum Kit
 - #02 - CSS + JS Clock
 - #03 - Playing with CSS Variables and JS
+- #04 - Array Cardio Day 1
+- #05 - Flex Panels Image Gallery
 
 ## To do:
 
-- #04 - Array Cardio Day 1
-- #05 - Flex Panels Image Gallery
 - #06 - Ajax Type Ahead
 - #07 - Array Cardio Day 2
 - #08 - Fun with HTML5 Canvas
