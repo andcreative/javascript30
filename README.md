@@ -12,11 +12,11 @@
 
 ## Done:
 
-- #01 - JavaScript Drum Kit
-- #02 - CSS + JS Clock
-- #03 - Playing with CSS Variables and JS
-- #04 - Array Cardio Day 1
-- #05 - Flex Panels Image Gallery
+- [#01 - JavaScript Drum Kit](https://andcreative.github.io/javascript30/01-javascript-drum-kit/index.html)
+- [#02 - CSS JS Clock](https://andcreative.github.io/javascript30/02-css-js-clock/index.htmll)
+- [#03 - Playing with CSS Variables and JS](https://andcreative.github.io/javascript30/03-css-variables/index.html)
+- [#04 - Array Cardio Day 1](https://andcreative.github.io/javascript30/04-array-cardio-day-1/index.html)
+- [#05 - Flex Panels Image Gallery](https://andcreative.github.io/javascript30/05-flex-panel-gallery/index.html)
 
 ## To do:
 
