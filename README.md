@@ -17,10 +17,10 @@
 - [#03 - Playing with CSS Variables and JS](https://andcreative.github.io/javascript30/03-css-variables/index.html)
 - [#04 - Array Cardio Day 1](https://andcreative.github.io/javascript30/04-array-cardio-day-1/index.html)
 - [#05 - Flex Panels Image Gallery](https://andcreative.github.io/javascript30/05-flex-panel-gallery/index.html)
+- [#06 - Ajax Type Ahead](https://andcreative.github.io/javascript30/05-type-ahead/index.html)
 
 ## To do:
 
-- #06 - Ajax Type Ahead
 - #07 - Array Cardio Day 2
 - #08 - Fun with HTML5 Canvas
 - #09 - 14 Must Know Dev Tools Tricks
