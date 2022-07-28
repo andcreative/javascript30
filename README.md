@@ -18,10 +18,10 @@
 - [#04 - Array Cardio Day 1](https://andcreative.github.io/javascript30/04-array-cardio-day-1/index.html)
 - [#05 - Flex Panels Image Gallery](https://andcreative.github.io/javascript30/05-flex-panel-gallery/index.html)
 - [#06 - Ajax Type Ahead](https://andcreative.github.io/javascript30/06-type-ahead/index.html)
+- [#07 - Array Cardio Day 2](https://andcreative.github.io/javascript30/07-array-cardio-day-2/index.html)
 
 ## To do:
 
-- #07 - Array Cardio Day 2
 - #08 - Fun with HTML5 Canvas
 - #09 - 14 Must Know Dev Tools Tricks
 - #10 - Hold Shift to Check Multiple Checkboxes
