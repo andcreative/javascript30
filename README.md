@@ -2,7 +2,7 @@
 
 ### _JavaScript 30 projects. 30 Day Vanilla JS Coding Challenge from https://courses.wesbos.com/_
 
-### Original project repositorie on Github: https://github.com/wesbos/JavaScript30
+### Original project repo on Github: https://github.com/wesbos/JavaScript30
 
 ## Why?
 
