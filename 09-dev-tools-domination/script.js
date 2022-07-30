@@ -68,3 +68,5 @@ const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
         console.timeEnd('fetching data');
         console.log(data);
       });
+
+      console.table(dogs);

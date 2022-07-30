@@ -22,10 +22,10 @@
 - [#06 - Ajax Type Ahead](https://andcreative.github.io/javascript30/06-type-ahead/index.html)
 - [#07 - Array Cardio Day 2](https://andcreative.github.io/javascript30/07-array-cardio-day-2/index.html)
 - [#08 - Fun with HTML5 Canvas](https://andcreative.github.io/javascript30/08-html5-canvas/index.html)
+- [#09 - 14 Must Know Dev Tools Tricks](https://andcreative.github.io/javascript30/09-dev-tools-domination/index.html)
 
 ## To do:
 
-- #09 - 14 Must Know Dev Tools Tricks
 - #10 - Hold Shift to Check Multiple Checkboxes
 - #11 - Custom HTML5 Video Player
 - #12 - Key Sequence Detection (KONAMI CODE)

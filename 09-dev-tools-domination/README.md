@@ -1,14 +1,10 @@
-# Project: #8 - Fun with HTML Canvas
+# Project: #9 - Console Tricks!
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
 ## Why?
 
 ### I'm doing the JavaScript30 Challenge to improve my skills.
-
-## What I've learned
-
-- I met the HTML canvas element.
 
 ## Skills Used in the Project:
 
