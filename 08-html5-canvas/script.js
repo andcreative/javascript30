@@ -31,15 +31,16 @@ function draw(e) {
         hue = 0;
     }
 
-    if (ctx.lineWidth >= 100 || ctx.linewidth <= 1) {
+    if (ctx.lineWidth >= 100 || ctx.lineWidth <= 1) {
         direction = !direction;
-    }
-
-    if(direction) {
+      }
+    
+      if(direction) {
         ctx.lineWidth++;
       } else {
         ctx.lineWidth--;
-    }
+      }
+    
 
 }
 

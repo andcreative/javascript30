@@ -1,4 +1,4 @@
-# Project: #8 - Fun with HTML% Canvas
+# Project: #8 - Fun with HTML Canvas
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
@@ -8,7 +8,7 @@
 
 ## What I've learned
 
-- More arrays exercices to improve my knowledge of.
+- I met the HTML canvas element.
 
 ## Skills Used in the Project:
 
