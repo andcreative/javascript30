@@ -7,25 +7,64 @@ const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
     }
 
     // Regular
+    console.log('hello');
 
     // Interpolated
+    console.log('Hello I am a %s string!', '💩')
+        // console.log(`Hello I am a ${var} string`)
 
     // Styled
+    console.log('%c I am some great text', 'font-size:50px; background:red')
 
     // warning!
+    console.warn('OH NOOO');
 
     // Error :|
+    console.log('Shit!');
 
     // Info
+    console.info('Crocodiles eat 3-4 people per year');
 
     // Testing
+    const p = document.querySelector('p');
+
+    console.assert(p.classList.contains('ouch'), 'Thats is wrong!');
 
     // clearing
+    console.clear();
 
     // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);
+
+    console.clear();
 
     // Grouping together
 
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age} human years old`);
+      console.groupEnd(`${dog.name}`);
+    })
+
     // counting
 
+    console.count('and');
+    console.count('and');
+    console.count('andre');
+    console.count('and');
+    console.count('and');
+    console.count('andre');
+    console.count('and');
+    console.count('andre');
+
     // timing
+    console.time('fetching data');
+    fetch('https:api.github.com/users/wesbos')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
