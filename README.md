@@ -2,6 +2,8 @@
 
 ### _JavaScript 30 projects. 30 Day Vanilla JS Coding Challenge from https://courses.wesbos.com/_
 
+### Original project repositorie on Github: https://github.com/wesbos/JavaScript30
+
 ## Why?
 
 ### JavaScript30 projects challenge to improve my skills in Vanilla JS.
@@ -19,10 +21,10 @@
 - [#05 - Flex Panels Image Gallery](https://andcreative.github.io/javascript30/05-flex-panel-gallery/index.html)
 - [#06 - Ajax Type Ahead](https://andcreative.github.io/javascript30/06-type-ahead/index.html)
 - [#07 - Array Cardio Day 2](https://andcreative.github.io/javascript30/07-array-cardio-day-2/index.html)
+- [#08 - Fun with HTML5 Canvas](https://andcreative.github.io/javascript30/08-html5-canvas/index.html)
 
 ## To do:
 
-- #08 - Fun with HTML5 Canvas
 - #09 - 14 Must Know Dev Tools Tricks
 - #10 - Hold Shift to Check Multiple Checkboxes
 - #11 - Custom HTML5 Video Player
