@@ -1,4 +1,4 @@
-# Project: #9 - Console Tricks!
+# Project: #10 - Hold Shift and Check Checkboxes
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
