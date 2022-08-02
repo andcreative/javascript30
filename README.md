@@ -24,10 +24,10 @@
 - [#08 - Fun with HTML5 Canvas](https://andcreative.github.io/javascript30/08-html5-canvas/index.html)
 - [#09 - 14 Must Know Dev Tools Tricks](https://andcreative.github.io/javascript30/09-dev-tools-domination/index.html)
 - [#10 - Hold Shift to Check Multiple Checkboxes](https://andcreative.github.io/javascript30/10-hold-shift-and-check-checkboxes/index.html)
+- [#11 - Custom HTML5 Video Player](https://andcreative.github.io/javascript30/11-custom-video-player/index.html)
 
 ## To do:
 
-- #11 - Custom HTML5 Video Player
 - #12 - Key Sequence Detection (KONAMI CODE)
 - #13 - Slide In on Scroll
 - #14 - Object and Arrays - Reference VS Copy
