@@ -1,4 +1,4 @@
-# Project: #12 - Key Detection
+# Project: #13 - Slide In on Scroll
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
@@ -8,9 +8,7 @@
 
 ## What I've learned
 
-- Detect key sequencing, store them in a
-  array and then check if it matches
-  what are you looking for.
+-
 
 ## Skills Used in the Project:
 
