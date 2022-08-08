@@ -27,10 +27,10 @@
 - [#11 - Custom HTML5 Video Player](https://andcreative.github.io/javascript30/11-custom-video-player/index.html)
 - [#12 - Key Sequence Detection (KONAMI CODE)](https://andcreative.github.io/javascript30/12-key-sequence-detection/index.html)
 - [#13 - Slide In on Scroll](https://andcreative.github.io/javascript30/13-slide-in-on-scroll/index.html)
+- [#14 - Object and Arrays - Reference VS Copy](https://andcreative.github.io/javascript30/14-js-reference-vs-copy/index.html)
 
 ## To do:
 
-- #14 - Object and Arrays - Reference VS Copy
 - #15 - LocalStorage and Event Delegation
 - #16 - CSS Text Shadow Mouse Move Effect
 - #17 - Sorting Band Names without articles
