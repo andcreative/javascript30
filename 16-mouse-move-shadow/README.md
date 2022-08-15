@@ -1,4 +1,4 @@
-# Project: #15 - Local Storage
+# Project: #16 - Mouse Move Shadow
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
@@ -8,7 +8,7 @@
 
 ## What I've learned
 
-- How to manipulate some things in local storage.
+-
 
 ## Skills Used in the Project:
 
