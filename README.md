@@ -29,10 +29,10 @@
 - [#13 - Slide In on Scroll](https://andcreative.github.io/javascript30/13-slide-in-on-scroll/index.html)
 - [#14 - Object and Arrays - Reference VS Copy](https://andcreative.github.io/javascript30/14-js-reference-vs-copy/index.html)
 - [#15 - LocalStorage and Event Delegation](https://andcreative.github.io/javascript30/15-local-storage/index.html)
+- [#16 - CSS Text Shadow Mouse Move Effect](https://andcreative.github.io/javascript30/16-mouse-move-shadow/index.html)
 
 ## To do:
 
-- #16 - CSS Text Shadow Mouse Move Effect
 - #17 - Sorting Band Names without articles
 - #18 - Tally String Times with Reduce
 - #19 - Unreal Webcam Fun
