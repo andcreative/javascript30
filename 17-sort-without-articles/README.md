@@ -1,4 +1,4 @@
-# Project: #16 - Mouse Move Shadow
+# Project: #17 - Sorting Band Names without articles
 
 ### _JavaScript30 projects. Challenge from https://courses.wesbos.com/_
 
