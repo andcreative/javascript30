@@ -31,10 +31,10 @@
 - [#15 - LocalStorage and Event Delegation](https://andcreative.github.io/javascript30/15-local-storage/index.html)
 - [#16 - CSS Text Shadow Mouse Move Effect](https://andcreative.github.io/javascript30/16-mouse-move-shadow/index.html)
 - [#17 - Sorting Band Names without articles](https://andcreative.github.io/javascript30/17-sort-without-articles/index.html)
+- [#18 - Tally String Times with Reduces](https://andcreative.github.io/javascript30/18-adding-up-times-with-reduce/index.html)
 
 ## To do:
 
-- #18 - Tally String Times with Reduce
 - #19 - Unreal Webcam Fun
 - #20 - Native Speech Recognition
 - #21 - Geolocation based Speedometer and Compass
