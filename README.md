@@ -34,10 +34,10 @@
 - [#18 - Tally String Times with Reduces](https://andcreative.github.io/javascript30/18-adding-up-times-with-reduce/index.html)
 - [#19 - Unreal Webcam Fun](https://andcreative.github.io/javascript30/19-unrea-webcam-fun/index.html)
 - [#20 - Native Speech Recognition](https://andcreative.github.io/javascript30/20-speech-detection/index.html)
+- [#21 - Geolocation based Speedometer and Compass](https://andcreative.github.io/javascript30/21-geolocation/index.html)
 
 ## To do:
 
-- #21 - Geolocation based Speedometer and Compass
 - #22 - Follow Along Links
 - #23 - Speech Synthesis
 - #24 - Sticky Nav
