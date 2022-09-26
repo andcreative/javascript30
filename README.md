@@ -35,10 +35,10 @@
 - [#19 - Unreal Webcam Fun](https://andcreative.github.io/javascript30/19-unrea-webcam-fun/index.html)
 - [#20 - Native Speech Recognition](https://andcreative.github.io/javascript30/20-speech-detection/index.html)
 - [#21 - Geolocation based Speedometer and Compass](https://andcreative.github.io/javascript30/21-geolocation/index.html)
+- [#22 - Follow Along Links](https://andcreative.github.io/javascript30/22-follow-along-link-highlighter/index.html)
 
 ## To do:
 
-- #22 - Follow Along Links
 - #23 - Speech Synthesis
 - #24 - Sticky Nav
 - #25 - Event Capture, Propagation, Bubbling and Once
