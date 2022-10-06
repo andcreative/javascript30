@@ -36,10 +36,11 @@
 - [#20 - Native Speech Recognition](https://andcreative.github.io/javascript30/20-speech-detection/index.html)
 - [#21 - Geolocation based Speedometer and Compass](https://andcreative.github.io/javascript30/21-geolocation/index.html)
 - [#22 - Follow Along Links](https://andcreative.github.io/javascript30/22-follow-along-link-highlighter/index.html)
+- [#22 - Follow Along Links](https://andcreative.github.io/javascript30/22-follow-along-link-highlighter/index.html)
+- [#23 - Speech Synthesis](https://andcreative.github.io/javascript30/23-speech-synthesis/index.html)
 
 ## To do:
 
-- #23 - Speech Synthesis
 - #24 - Sticky Nav
 - #25 - Event Capture, Propagation, Bubbling and Once
 - #26 - Stripe Follow Along Dropdown
