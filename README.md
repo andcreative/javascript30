@@ -38,6 +38,7 @@
 - [#22 - Follow Along Links](https://andcreative.github.io/javascript30/22-follow-along-link-highlighter/index.html)
 - [#22 - Follow Along Links](https://andcreative.github.io/javascript30/22-follow-along-link-highlighter/index.html)
 - [#23 - Speech Synthesis](https://andcreative.github.io/javascript30/23-speech-synthesis/index.html)
+- [#24 - Sticky Nav](https://andcreative.github.io/javascript30/24-sticky-nav/index.html)
 
 ## To do:
 
